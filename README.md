@@ -4,5 +4,5 @@ Claim 14 voc termasuk gofood
 
 
 
-by. KUATMLARAT
-    KADALS mBELINK
+by. DAVID
+    KEPO
