@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
-include "function1.php";
+include "newpodd.php";
 echo "\n";
 echo "\e[86m        (SELAMAT BERJUMPA KEMBALI SAYANG $input)               \n";
 echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ▬\n";
